@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(102, 234, 234);
+}
+
+#login{
+    width: 30%;
+    height: 600px ;
+    margin-left:35% ;
+    padding-left: auto;
+    border-radius: 2%;
+    background-color: red;
+}
+
+h1{
+    padding-top: 40px;
+    padding-left: 40%;
+    height: 60px;
+    top: 20px ;
+}
+
+#p1{
+    /* border: 2px black solid; */
+    padding-left: 10%;
+    margin-bottom: 2px;
+}
+
+#text1{
+    width: 80%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 4px rgb(0, 229, 255) solid;
+    margin-left: 10%;
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+#p2{
+    padding-left: 10%;
+    margin-bottom: 2px;
+}
+
+#text2{
+    width: 80%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 4px rgb(0, 229, 255) solid;
+    margin-left: 10%;
+    background-color: red;
+}
+
+#link1{
+    display: block;
+    width: 115px;
+    margin-left:60% ;
+    margin-top: 5px;
+}
+
+#submit{
+    width: 80%;
+    height: 40px;
+    padding-top: auto ;
+    margin-left: 10%;
+    margin-top: 15px;
+    
+}
+
+#p3{
+    height: 20px;
+    padding-left: 33%;
+    margin-top: 50px;
+}
+
+
+
+
+#logos{
+    height: 80px;
+    margin-top: 1px;
+    margin-left: 20%;
+    display: inline-block;
+}
+
+
+#img1{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    float: left;
+    background-image: url("images/facebook.jpg");
+    background-size: cover;
+
+}
+#img2{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    float: left;
+    background-image: url("images/twiter.png");
+    background-size: cover;
+    display: block;
+}
+
+#img3{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: 140px;
+    background-image: url("images/google.jpg");
+    background-size: cover; /*most important*/
+}
+
+#p4{
+    padding-left: 35%;
+    margin-top: 60px;
+    margin-bottom: 2px;
+}
+#p5{
+    padding-left: 42%;
+    margin-top: 2px;
+}
